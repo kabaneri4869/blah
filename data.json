@@ -1,0 +1,24 @@
+{ "emp_details": 
+        [{
+   "Name": "saurabh",
+    "Place": "Mumbai",
+    "Phone":34643654785
+    
+    },{
+   "Name": "shruti",
+    "Place": "kolkata",
+    "Phone":34637457253
+   },
+   {
+   "Name": "prachi",
+    "Place": "pune",
+    "Phone":5475853435
+   },
+   {
+   "Name": "sid",
+    "Place": "asaam",
+    "Phone":3759696352
+   }
+    
+    ]
+ }
